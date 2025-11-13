@@ -99,6 +99,8 @@ data-analysis/
 ├── house_price.ipynb                 # 주택 가격 분석 & 예측
 └── README.md
 
+---
+
 ## 4. 실행 방법
 
 ### 4-1. 로컬 환경에서 실행
